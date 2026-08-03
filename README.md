@@ -1,5 +1,12 @@
 # 💫 About Me:
-🏆 Brian Juma – Software Engineer | Data Scientist | IoT Expert |  Web Development<br>👋 Hi there! I'm Brian Juma, a passionate Software Engineer specializing in web development, data science, and IoT engineering. With an experience in data science and  web development, I have built models, applications, and systems that solve real-world problems efficiently.
+
+🏆 **Brian Juma Okelo – Software Engineer | AI/ML Engineer | Data Scientist | IoT Developer**
+
+👋 Hi, I'm Brian Juma, a Software Engineer passionate about building intelligent digital solutions through **Artificial Intelligence, Machine Learning, Web Development, and IoT systems**. I specialize in developing scalable applications, training AI models, and designing technology solutions that solve real-world challenges.
+
+💡 My experience spans **AI-powered applications, data science, full-stack development, cloud technologies, and embedded systems**. I have worked on projects involving computer vision, predictive models, automation systems, and smart IoT solutions while exploring how emerging technologies can create meaningful impact.
+
+🚀 I am continuously expanding my expertise in **AI engineering, software architecture, and intelligent systems**, with a strong interest in building innovative products that connect technology with real-world needs.
 
 
 ## 🌐 Socials:
