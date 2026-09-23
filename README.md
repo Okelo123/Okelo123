@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🏆 **Brian Juma Okelo – Software Engineer | AI/ML Engineer | Data Scientist | IoT Developer**
+🏆 **Brian Juma Okelo – Software Engineer | AI/ML Engineer | Data Scientist | IoT Developer | Mobile Developer**
 
 👋 Hi, I'm Brian Juma, a Software Engineer passionate about building intelligent digital solutions through **Artificial Intelligence, Machine Learning, Web Development, and IoT systems**. I specialize in developing scalable applications, training AI models, and designing technology solutions that solve real-world challenges.
 
